@@ -1,0 +1,47 @@
+The multiplication between number 2 and 1 is 2.00.
+The multiplication between number 7 and 8 is 56.00.
+The sum between 1 and 2 is 3.00.
+The multiplication between number 1 and 9 is 9.00.
+The sum between 1 and 2 is 3.00.
+None
+The multiplication between number 4 and 5 is 20.00.
+The 5 minus 6 is -1.
+None
+The 3 minus 3 is 0.0.
+None
+None
+The division between number 3 and 2 is 1.5.
+The 4 minus 6 is -2.0.
+The 5 minus 6 is -1.0.
+The division between number 2 and 3 is 0.7.
+
+The division between number 2 and 3 is 0.7.
+The sum between 2 and 5 is 7.0.
+The multiplication between number 3 and 4 is 12.0.
+The 3 minus 2 is 1.0.
+The division between number 1 and 2 is 0.5.
+None
+The multiplication between number 3 and 4 is 12.0.
+The division between 2 and 6 is 0.3.
+None
+None
+None
+None
+The multiplication between 4 and 5 is 20.0.
+The multiplication between 3 and 2 is 6.0.
+The sum between 4 and 5 is 9.0.
+The sum between 4 and 5 is 9.0.
+The sum between 3 and 2 is 5.0.
+The sum between 2 and 3 is 5.0.
+The multiplication between {first_number} and {second_number} is {res:.1f:}.
+The sum between 1 and 2 is 3.0.
+The {first_number} minus {second_number} is {res:.1f}.
+The 3 minus 4 is -1.0.
+The result of equation is: 1 + 2 = 3.0.
+1 - 2 = -1.0.
+1 - 2 = -1.0
+2 - 3 = -1.0
+1 * 2 = 2.0
+4 * 5 = 20.0
+3 - 4 = -1.0
+2 / 3 = 0.7

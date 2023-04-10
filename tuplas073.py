@@ -1,0 +1,11 @@
+club = ('Real Madrid', 'Manchester United', 'Bayern de Munique', 'Barcelona', 'Santos F. C.', 'Ajax',
+'Juventus' , 'River Plate', 'Flamengo', 'Milan', 'Liverpool F. C.', 'Botafogo', 'Chapecoense')
+print(f'List with the famous clubs in the World: {club}')
+print('*' * 44)
+print(f'5 First Teams are: {club[:5]}')
+print('*' * 44)
+print(f'The last 4 are: {club[-4:]}')
+print('*' * 44)
+print(f'Alphabetic order is {sorted(club)}')
+print('*' * 44)
+print(f'Real Madrid is {club.index("Real Madrid")} posicao')
